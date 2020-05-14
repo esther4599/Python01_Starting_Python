@@ -1,4 +1,4 @@
-my_name = '민산이'
+my_name = 'esther'
 my_age = 24;
 
 print(my_name, " ", my_age)
