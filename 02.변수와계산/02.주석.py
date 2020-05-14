@@ -1,4 +1,4 @@
-name = '민산이' #주석
+name = 'esther' #주석
 age = 24 #벌써...
 print('hello ', 'I\'m ', name, ' and ', age, 'years old')
 
