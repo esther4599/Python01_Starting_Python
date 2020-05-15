@@ -1,0 +1,9 @@
+REPL
+shell에서 코드를 실행시켜 볼 수 있는 기능
+해당 코드의 결과를 확인해 볼 수 있음
+
+=> exit를 통해 REPL모드를 종료할 수 있음
+
+REPL
+= Read-Eval-Print Loop
+=> 코드를 읽고 평가하고 출력하는 루프
