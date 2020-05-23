@@ -1,0 +1,11 @@
+1. 검색은 구글에서
+2. 키워드에 파이썬3 / python3를 포함하기
+3. 코드를 포함한 설명을 찾아보
+4. 간단한 예제는 cmd 창에 python3를 입력해 나오는 REPL에서 실행해보기
+=> 오류 발생시 잘보고 해결해보기. import 주의
+5. 영어를 못해도 영어로 검색하기
+
+import datetime
+
+print(datetime.date.today())
+print(datetime.datetime.now())

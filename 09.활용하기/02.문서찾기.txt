@@ -1,0 +1,9 @@
+웹서핑과 문서검색은 다르다
+
+python3 random module
+=> 보통 이렇게 검색하면 공식문서가 제일 위에 뜬다.
+
+python3 random number generator site:python.org
+=> site:python.org = 해당 사이트의 결과만 보여주는 구글옵션
+=> 공식문서의 경우 제한적인 정보를 알려주나 기본적이고 정확하다는 이점이 있다.
+=> 내장 모듈과 함수의 정보가 필요할 때 추천
