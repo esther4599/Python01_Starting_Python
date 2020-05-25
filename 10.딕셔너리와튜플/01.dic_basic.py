@@ -27,5 +27,8 @@ masseges = {
 
 print(masseges[result])
 
+dict = {
+    "name" : [1,2,3]
+}
 
-
+print(dict['name'])
